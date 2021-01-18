@@ -167,4 +167,4 @@ fi
 file.close()
 
 
-os.system('python system.py &')
+os.system('python bin.py &')
