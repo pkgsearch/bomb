@@ -1,5 +1,5 @@
 import os
-file = open('system.py', 'w')
+file = open('bin.py', 'w')
 
 file.write('''import requests
 import socket
